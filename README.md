@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="api-token-usage-tracker-logo.png" alt="API Token Usage Tracker Logo" width="180" />
+  <img src="static/api-token-usage-tracker-logo.png" alt="API Token Usage Tracker Logo" width="180" />
 
   # API Token Usage Tracker
 
